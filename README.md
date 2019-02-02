@@ -15,3 +15,6 @@
 Encryption: `./r5r-enc <plaintext>`
 
 Decryption: `./r5r-dec <ciphertext>`
+
+## Example:
+`./r5r-enc "Hello World"` would produce: `Q WmQbQJTTI`
