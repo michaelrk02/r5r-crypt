@@ -2,11 +2,13 @@
 "R5R" encryption created by me :D fuck yeah
 
 ## Compilation:
-Inside `build` directory:
+1. Create `build` directory
 
-`cmake ..` (requires CMake package) and then:
+2. Inside `build` directory:
 
-`make`
+>`cmake ..` (requires CMake package) and then:
+
+>`make`
 
 
 ## Running:
